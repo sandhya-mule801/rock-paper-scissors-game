@@ -53,9 +53,14 @@ git clone https://github.com/sandhya-mule801/rock-paper-scissors-game.git
 ## 📸 Screenshot
 
 ```
-screenshots/screenshot-1.png
-screenshots/screenshot-2.png
-screenshots/Screenshot-3.png
+### Home Screen
+![Home Screen](screenshots/screenshot-1.png)
+
+### Game Play
+![Game Play](screenshots/screenshot-2.png)
+
+### Result Screen
+![Result Screen](screenshots/Screenshot-3.png)
 ```
 
 ## 📚 What I Learned
